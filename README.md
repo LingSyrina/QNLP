@@ -8,4 +8,4 @@
 ## Potential ideas
 
 1. [SICK dataset](https://huggingface.co/datasets/RobZamp/sick): Sharedtask with benchmark dataset, we can pick 100 sentences;
-2. [SemEval-2023 Task](https://aclanthology.org/2023.semeval-1.308.pdf): Ambiguous visual labeling (harder but more interesting?);
+2. [SemEval-2023 Task](https://raganato.github.io/vwsd/): Ambiguous visual labeling (harder but more interesting?). Baseline can be found [here](https://aclanthology.org/2023.semeval-1.308.pdf)) with git repo.
