@@ -1,0 +1,13 @@
+A,B,Relation
+Socrates has a cat.,Socrates has a Persian cat.,"(0.5, 1)"
+Rachel is a cat person.,Phoebe is a cat person.,"(0.5, 0.5)"
+Rachel is a cat person.,Rachel is a person.,"(1, 0.5)"
+Ling does not have a cat.,Ling does not have a pet.,"(0.5, 1)"
+Ling studies semantics.,Ling studies Linguistics.,"(1, 0.5)"
+Cersei killed Margaery.,Margaery is dead.,"(1, 0.5)"
+All Men are mortal.,Socrates is mortal.,"(1, 0.5)"
+A group of kids is playing in a yard.,A group of boys in a yard is playing.,"(0.5, 1)"
+An old man is standing in the background.,A man is standing in the background.,"(1, 0.5)"
+Cersei killed Margaery.,Margaery was killed by Cersei.,"(1, 1)"
+Ross is pivoting.,Ross is not pivoting.,"(0, 0)"
+Ling is the King of France.,There is no King of France.,"(0, 0)"
