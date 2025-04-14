@@ -1,0 +1,11 @@
+A,B,Relation
+Person has a pet., 0.5
+Cercei has a pet., 1
+Cercei has a pet dog, 1
+Johnny has a dog., 1
+Pete has two dogs., 1
+Johnny has pants., 0
+Person has a dog., 0.5
+Person has a cat., 0.5
+Ling has a dog., 1
+Ling has a cat., 1
