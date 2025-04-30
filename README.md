@@ -19,7 +19,11 @@ The data sampling code can be found in `SICK100/SICK_sampling.ipynb`.
    
 ## Model results
 1. Inference task is harder than sentence relatedness for both quantum model and transformer.
-2. Quantum model is more efficient than transformer model.
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/1c76942e-dd73-42b8-9986-8612e80ecd5e" />
+
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/cd864ff7-2367-46d2-8057-430a60b72bd9" />
+
+3. Quantum model is more efficient than transformer model.
    <img width="676" alt="image" src="https://github.com/user-attachments/assets/4975e040-5f23-4147-a0de-8ad9d3ffc7cc" />
 
 ## Model generality
