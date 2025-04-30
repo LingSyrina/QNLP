@@ -6,16 +6,16 @@
 2. A task that can be used to compare classical NLP models and QNLP models;
 ```
 ## Our dataset
-[SICK dataset](https://huggingface.co/datasets/RobZamp/sick): Sharedtask with benchmark dataset, we picked 100 pairs of sentences (length <= 10). See `SICK100` folder for our dataset.  
-[Larry Moss](https://arxiv.org/pdf/1910.08772) has been/is working actively on this kind of problem.  
+[SICK dataset](https://huggingface.co/datasets/RobZamp/sick): Sharedtask with benchmark dataset, we picked 100 pairs of sentences (length <= 10). See `SICK100` folder for our dataset. [Larry Moss](https://arxiv.org/pdf/1910.08772) has been/is working actively on this kind of problem.  
 
 ## Our task
 1. Sentence inference relation: Entail:1, Neutral:0.5, Contradict: 0. For entailment, the directionality matters. 
-2. Sentence relatedness: SICK relatedness score clipped to [0,1] interval. 
+2. Sentence relatedness: SICK relatedness score clipped to [0,1] interval.  
+The data sampling code can be found in `SICK100/SICK_sampling.ipynb`.
 
 ## Model architecture
-1. Quantum model: Hybrid pipeline with Lambeq circuit + XORNet (Feedforward NN).
-2. Transformer model: MiniLM-L6, 6 Transformer layers (Hidden size: 384, Max position embeddings: 512, Heads: 8)
+1. Quantum model: Hybrid pipeline with Lambeq circuit + XORNet (Feedforward NN). See `hybrid_pipline.py`
+2. Transformer model: MiniLM-L6, 6 Transformer layers (Hidden size: 384, Max position embeddings: 512, Heads: 8). See `classical_run.py`.
    
 ## Model results
 1. Inference task is harder than sentence relatedness for both quantum model and transformer.
