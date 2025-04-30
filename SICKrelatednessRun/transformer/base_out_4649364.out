@@ -1,0 +1,9 @@
+Epoch 0: Train Loss = 0.4729, Dev MSE = 0.0448
+Epoch 1: Train Loss = 0.1988, Dev MSE = 0.0527
+Epoch 2: Train Loss = 0.1530, Dev MSE = 0.0478
+Epoch 3: Train Loss = 0.0939, Dev MSE = 0.0573
+Epoch 4: Train Loss = 0.0774, Dev MSE = 0.0539
+Epoch 5: Train Loss = 0.0566, Dev MSE = 0.0555
+Early stopping.
+Best model on test set has MSE: 0.0112
+Training logs saved to training_log_llm.csv and plot to train_llm.png.
