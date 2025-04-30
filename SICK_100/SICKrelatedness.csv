@@ -1,0 +1,101 @@
+sentence_A,sentence_B,relatedness_score
+Two dogs are fighting,Two dogs are wrestling and hugging,0.8
+Two dogs are wrestling and hugging,There is no dog wrestling and hugging,0.6599999999999999
+A skilled person is riding a bicycle on one wheel,A person is riding the bicycle on one wheel,0.86
+Nobody is riding the bicycle on one wheel,A person is riding the bicycle on one wheel,0.82
+Two people are kickboxing and spectators are watching,Two people are fighting and spectators are watching,0.8800000000000001
+Two people are kickboxing and spectators are not watching,Two people are kickboxing and spectators are watching,0.6799999999999999
+Two spectators are kickboxing and some people are watching,Two people are kickboxing and spectators are watching,0.8
+Two young women are sparring in a kickboxing fight,Two women are sparring in a kickboxing match,0.9800000000000001
+Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing match,0.78
+Two people are kickboxing and spectators are watching,Two young women are sparring in a kickboxing fight,0.78
+Two people are kickboxing and spectators are watching,Two young women are not sparring in a kickboxing fight,0.683
+Two women are sparring in a kickboxing match,Two people are fighting and spectators are watching,0.74
+Two women are sparring in a kickboxing match,Two people are kickboxing and spectators are not watching,0.74
+Two spectators are kickboxing and some people are watching,Two women are sparring in a kickboxing match,0.72
+Two people are kickboxing and spectators are watching,Two women are sparring in a kickboxing match,0.78
+Kids in red shirts are playing in the leaves,Children in red shirts are playing in the leaves,0.9800000000000001
+Children in red shirts are playing in the leaves,Children in red shirts are sleeping in the leaves,0.8
+Children in red shirts are playing in the leaves,Children covered by leaves are playing with red shirts,0.78
+Three boys are jumping in the leaves,Three kids are jumping in the leaves,0.8800000000000001
+Three kids are sitting in the leaves,Three kids are jumping in the leaves,0.76
+Three boys are jumping in the leaves,Children in red shirts are playing in the leaves,0.82
+Children in red shirts are playing in the leaves,Three kids are sitting in the leaves,0.7
+Kids in red shirts are playing in the leaves,Three kids are jumping in the leaves,0.78
+Children in red shirts are sleeping in the leaves,Three kids are jumping in the leaves,0.62
+Children covered by leaves are playing with red shirts,Three kids are jumping in the leaves,0.78
+Children in red shirts are playing in the leaves,Three kids are jumping in the leaves,0.8
+A little girl is looking at a woman in costume,A young girl is looking at a woman in costume,0.9400000000000001
+A little girl is looking at a woman in costume,The little girl is looking at a man in costume,0.76
+A little girl is looking at a woman in costume,A little girl in costume looks like a woman,0.58
+A lone biker is jumping in the air,"A biker is jumping in the air, alone",1.0
+There is no biker jumping in the air,A lone biker is jumping in the air,0.8400000000000001
+A man is jumping into an empty swimming pool,A man is jumping into an empty pool,0.96
+A man is jumping into an empty pool,A man is jumping into a full pool,0.6
+A man is jumping into an empty pool,The man's jumper is in the empty pool,0.62
+A lone biker is jumping in the air,A man is jumping into an empty swimming pool,0.32
+A lone biker is jumping in the air,A man is jumping into a full pool,0.33999999999999997
+The man's jumper is in the empty pool,A lone biker is jumping in the air,0.27999999999999997
+A man is jumping into an empty pool,"A biker is jumping in the air, alone",0.32
+A man is jumping into an empty pool,There is no biker jumping in the air,0.24
+A lone biker is jumping in the air,A man is jumping into an empty pool,0.3
+Four kids are doing backbends in the park,Four children are doing backbends in the park,0.96
+Four children are doing backbends in the gym,Four children are doing backbends in the park,0.76
+Four girls are doing backbends and playing in the garden,Four girls are doing backbends and playing outdoors,0.82
+Four girls are doing backbends and playing outdoors,Four girls are doing backbends and playing indoors,0.8
+Four girls are doing backbends and playing in the garden,Four children are doing backbends in the park,0.74
+Four girls are doing backbends and playing indoors,Four children are doing backbends in the park,0.74
+Four kids are doing backbends in the park,Four girls are doing backbends and playing outdoors,0.86
+Four children are doing backbends in the gym,Four girls are doing backbends and playing outdoors,0.76
+Four girls are doing backbends and playing outdoors,Four children are doing backbends in the park,0.82
+A player is throwing the ball,A player is running with the ball,0.7
+Two groups of people are playing football,Two teams are competing in a football match,0.9400000000000001
+Two teams are competing in a football match,Two teams are competing in a baseball game,0.78
+Two teams are competing in a football match,Football is being played by two competing teams,0.96
+Two groups of people are playing football,A player is running with the ball,0.42000000000000004
+Two teams are competing in a baseball game,A player is running with the ball,0.6
+A player is running with the ball,Football is being played by two competing teams,0.6
+A player is throwing the ball,Two teams are competing in a football match,0.58
+A player is running with the ball,Two teams are competing in a football match,0.52
+Five children are standing in front of a wooden hut,Five children are standing in a wooden hut,0.8400000000000001
+Five wooden stands are in front of each child's hut,Five children are standing in front of a wooden hut,0.64
+An old man is sitting in a field,A man is sitting in a field,0.8800000000000001
+A man is sitting in a field,A man is running in a field,0.52
+A person is sitting and wearing a grass hat,A man is sitting in a field,0.6599999999999999
+A deer is jumping over a fence,A deer is jumping over the enclosure,0.907
+A deer is jumping over a fence,A deer isn't jumping over the fence,0.78
+A wild deer is jumping a fence,A deer is jumping a fence,0.96
+A deer is jumping a fence,There is no deer jumping fences,0.82
+A wild deer is jumping a fence,A deer is jumping over a fence,0.9
+There is no deer jumping fences,A deer is jumping over a fence,0.537
+A deer is jumping over the enclosure,A deer is jumping a fence,0.8400000000000001
+A deer is jumping a fence,A deer isn't jumping over the fence,0.71
+A deer is jumping over a fence,A deer is jumping a fence,0.9800000000000001
+Several people are in front of a colorful building,Nobody is in front of the colorful building,0.7
+A boy is hitting a baseball,A child is hitting a baseball,0.8800000000000001
+A child is hitting a baseball,A child is missing a baseball,0.76
+A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,0.9199999999999999
+There is no motorcyclist riding a motorbike along a roadway,A motorcyclist is riding a motorbike along a roadway,0.74
+Two dogs are playing by a tree,Two dogs are playing by a plant,0.9199999999999999
+Two dogs are playing by a tree,Two dogs are sleeping by a tree,0.713
+Two dogs are playing by a tree,There is no dog leaping in the air,0.54
+A girl in white is dancing,A girl is wearing white clothes and is dancing,0.9800000000000001
+There is no girl in white dancing,A girl in white is dancing,0.8400000000000001
+A girl in white is dancing,The dancer is dancing in front of the sound equipment,0.8
+A girl in white is dancing,The blond girl is dancing behind the sound equipment,0.6599999999999999
+The children of a family are patiently playing and waiting,The children of a family are playing and waiting,0.9
+The children of a family are playing and waiting,There are no children playing and waiting,0.62
+Three Asian kids are dancing and a man is looking,An Asian man is dancing and three kids are looking,0.74
+The children of a family are playing and waiting,An Asian man is dancing and three kids are looking,0.38
+The children of a family are patiently playing and waiting,Three Asian kids are dancing and a man is looking,0.45999999999999996
+There are no children playing and waiting,Three Asian kids are dancing and a man is looking,0.32
+Three Asian kids are dancing and a man is looking,The children of a family are playing and waiting,0.45999999999999996
+A woman is wearing an Egyptian hat on her head,A woman is wearing an Egyptian headdress,0.86
+A woman is wearing an Egyptian headdress,A woman is wearing an Indian headdress,0.8
+A woman is wearing an Egyptian headdress,An Egyptian is wearing a woman's headdress,0.78
+The woman is wearing glasses and a black headdress,The woman with a black hat is wearing sunglasses,0.78
+The woman is not wearing glasses or a headdress,The woman is wearing glasses and a black headdress,0.78
+The black woman is wearing glasses over the headdress,The woman is wearing glasses and a black headdress,0.74
+A woman is wearing an Egyptian headdress,The woman with a black hat is wearing sunglasses,0.45999999999999996
+The woman is not wearing glasses or a headdress,A woman is wearing an Egyptian headdress,0.72
+The black woman is wearing glasses over the headdress,A woman is wearing an Egyptian headdress,0.72

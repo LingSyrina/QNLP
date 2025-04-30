@@ -1,0 +1,101 @@
+sentence_1,sentence_2,entailment_score
+Two dogs are fighting,Two dogs are wrestling and hugging,0.5
+Two dogs are wrestling and hugging,There is no dog wrestling and hugging,0.0
+A skilled person is riding a bicycle on one wheel,A person is riding the bicycle on one wheel,1.0
+A skilled person is riding a bicycle on one wheel,A person is riding the bicycle on one wheel,0.5
+Nobody is riding the bicycle on one wheel,A person is riding the bicycle on one wheel,0.0
+Two people are kickboxing and spectators are watching,Two people are fighting and spectators are watching,1.0
+Two people are kickboxing and spectators are watching,Two people are fighting and spectators are watching,0.5
+Two people are kickboxing and spectators are not watching,Two people are kickboxing and spectators are watching,0.0
+Two spectators are kickboxing and some people are watching,Two people are kickboxing and spectators are watching,0.5
+Two young women are sparring in a kickboxing fight,Two women are sparring in a kickboxing match,1.0
+Two women are sparring in a kickboxing match,Two young women are sparring in a kickboxing fight,1.0
+Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing match,0.5
+Two people are kickboxing and spectators are watching,Two young women are sparring in a kickboxing fight,0.5
+Two people are kickboxing and spectators are watching,Two young women are not sparring in a kickboxing fight,0.5
+Two women are sparring in a kickboxing match,Two people are fighting and spectators are watching,0.5
+Two women are sparring in a kickboxing match,Two people are kickboxing and spectators are not watching,0.5
+Two spectators are kickboxing and some people are watching,Two women are sparring in a kickboxing match,0.5
+Two people are kickboxing and spectators are watching,Two women are sparring in a kickboxing match,0.5
+Kids in red shirts are playing in the leaves,Children in red shirts are playing in the leaves,1.0
+Children in red shirts are playing in the leaves,Kids in red shirts are playing in the leaves,1.0
+Children in red shirts are playing in the leaves,Children in red shirts are sleeping in the leaves,0.5
+Children in red shirts are playing in the leaves,Children covered by leaves are playing with red shirts,0.5
+Three boys are jumping in the leaves,Three kids are jumping in the leaves,1.0
+Three boys are jumping in the leaves,Three kids are jumping in the leaves,0.5
+Three kids are sitting in the leaves,Three kids are jumping in the leaves,0.5
+Three boys are jumping in the leaves,Children in red shirts are playing in the leaves,0.5
+Children in red shirts are playing in the leaves,Three kids are sitting in the leaves,0.5
+Kids in red shirts are playing in the leaves,Three kids are jumping in the leaves,0.5
+Children in red shirts are sleeping in the leaves,Three kids are jumping in the leaves,0.5
+Children covered by leaves are playing with red shirts,Three kids are jumping in the leaves,0.5
+Children in red shirts are playing in the leaves,Three kids are jumping in the leaves,0.5
+A little girl is looking at a woman in costume,A young girl is looking at a woman in costume,1.0
+A young girl is looking at a woman in costume,A little girl is looking at a woman in costume,1.0
+A little girl is looking at a woman in costume,The little girl is looking at a man in costume,0.5
+A little girl is looking at a woman in costume,A little girl in costume looks like a woman,0.5
+A lone biker is jumping in the air,"A biker is jumping in the air, alone",1.0
+"A biker is jumping in the air, alone",A lone biker is jumping in the air,1.0
+There is no biker jumping in the air,A lone biker is jumping in the air,0.0
+A man is jumping into an empty swimming pool,A man is jumping into an empty pool,1.0
+A man is jumping into an empty swimming pool,A man is jumping into an empty pool,0.5
+A man is jumping into an empty pool,A man is jumping into a full pool,0.0
+A man is jumping into an empty pool,The man's jumper is in the empty pool,0.5
+A lone biker is jumping in the air,A man is jumping into an empty swimming pool,0.5
+A lone biker is jumping in the air,A man is jumping into a full pool,0.5
+The man's jumper is in the empty pool,A lone biker is jumping in the air,0.5
+A man is jumping into an empty pool,"A biker is jumping in the air, alone",0.5
+A man is jumping into an empty pool,There is no biker jumping in the air,0.5
+A lone biker is jumping in the air,A man is jumping into an empty pool,0.5
+Four kids are doing backbends in the park,Four children are doing backbends in the park,1.0
+Four children are doing backbends in the park,Four kids are doing backbends in the park,1.0
+Four children are doing backbends in the gym,Four children are doing backbends in the park,0.5
+Four girls are doing backbends and playing in the garden,Four girls are doing backbends and playing outdoors,1.0
+Four girls are doing backbends and playing in the garden,Four girls are doing backbends and playing outdoors,0.5
+Four girls are doing backbends and playing outdoors,Four girls are doing backbends and playing indoors,0.5
+Four girls are doing backbends and playing in the garden,Four children are doing backbends in the park,0.5
+Four girls are doing backbends and playing indoors,Four children are doing backbends in the park,0.5
+Four kids are doing backbends in the park,Four girls are doing backbends and playing outdoors,1.0
+Four kids are doing backbends in the park,Four girls are doing backbends and playing outdoors,0.5
+Four children are doing backbends in the gym,Four girls are doing backbends and playing outdoors,0.5
+Four girls are doing backbends and playing outdoors,Four children are doing backbends in the park,0.5
+A player is throwing the ball,A player is running with the ball,0.5
+Two groups of people are playing football,Two teams are competing in a football match,1.0
+Two teams are competing in a football match,Two groups of people are playing football,1.0
+Two teams are competing in a football match,Two teams are competing in a baseball game,0.5
+Two teams are competing in a football match,Football is being played by two competing teams,1.0
+Football is being played by two competing teams,Two teams are competing in a football match,1.0
+Two groups of people are playing football,A player is running with the ball,0.5
+Two teams are competing in a baseball game,A player is running with the ball,0.5
+A player is running with the ball,Football is being played by two competing teams,0.5
+A player is throwing the ball,Two teams are competing in a football match,0.5
+A player is running with the ball,Two teams are competing in a football match,0.5
+Five children are standing in front of a wooden hut,Five children are standing in a wooden hut,0.5
+Five wooden stands are in front of each child's hut,Five children are standing in front of a wooden hut,0.5
+An old man is sitting in a field,A man is sitting in a field,1.0
+An old man is sitting in a field,A man is sitting in a field,0.5
+A man is sitting in a field,A man is running in a field,0.5
+A person is sitting and wearing a grass hat,A man is sitting in a field,0.5
+A deer is jumping over a fence,A deer is jumping over the enclosure,1.0
+A deer is jumping over a fence,A deer is jumping over the enclosure,0.5
+A deer is jumping over a fence,A deer isn't jumping over the fence,0.0
+A wild deer is jumping a fence,A deer is jumping a fence,1.0
+A wild deer is jumping a fence,A deer is jumping a fence,0.5
+A deer is jumping a fence,There is no deer jumping fences,0.0
+A wild deer is jumping a fence,A deer is jumping over a fence,1.0
+A wild deer is jumping a fence,A deer is jumping over a fence,0.5
+There is no deer jumping fences,A deer is jumping over a fence,0.0
+A deer is jumping over the enclosure,A deer is jumping a fence,0.5
+A deer is jumping a fence,A deer isn't jumping over the fence,0.0
+A deer is jumping over a fence,A deer is jumping a fence,1.0
+A deer is jumping a fence,A deer is jumping over a fence,1.0
+Several people are in front of a colorful building,Nobody is in front of the colorful building,0.0
+A boy is hitting a baseball,A child is hitting a baseball,1.0
+A boy is hitting a baseball,A child is hitting a baseball,0.5
+A child is hitting a baseball,A child is missing a baseball,0.0
+A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,1.0
+A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,0.5
+There is no motorcyclist riding a motorbike along a roadway,A motorcyclist is riding a motorbike along a roadway,0.0
+Two dogs are playing by a tree,Two dogs are playing by a plant,1.0
+Two dogs are playing by a plant,Two dogs are playing by a tree,1.0
+Two dogs are playing by a tree,Two dogs are sleeping by a tree,0.5
