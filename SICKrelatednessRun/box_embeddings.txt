@@ -1,0 +1,1834 @@
+Word: A
+  Grammar: n@n.l0
+  Embedding: [-0.43414803891617215]
+  Grammar: n@n.l1
+  Embedding: [0.11462544280953754]
+  Grammar: n@n.l2
+  Embedding: [-0.722751869606548]
+
+Word: An
+  Grammar: n@n.l0
+  Embedding: [-0.09060352090870988]
+  Grammar: n@n.l1
+  Embedding: [0.8045847563786249]
+  Grammar: n@n.l2
+  Embedding: [0.4048841459287452]
+
+Word: Asian
+  Grammar: n@n.l0
+  Embedding: [1.1232668314152907]
+  Grammar: n@n.l1
+  Embedding: [0.8539459872315356]
+  Grammar: n@n.l2
+  Embedding: [1.116512252410343]
+
+Word: Children
+  Grammar: n0
+  Embedding: [0.5544160178473022]
+  Grammar: n1
+  Embedding: [-0.3772915552402555]
+  Grammar: n2
+  Embedding: [0.386922336438633]
+
+Word: Egyptian
+  Grammar: n@n.l0
+  Embedding: [1.0138475174165065]
+  Grammar: n@n.l1
+  Embedding: [1.5422576336120852]
+  Grammar: n@n.l2
+  Embedding: [0.7853798744145734]
+
+Word: Five
+  Grammar: n@n.l0
+  Embedding: [0.3942680171825146]
+  Grammar: n@n.l1
+  Embedding: [0.4638266909134733]
+  Grammar: n@n.l2
+  Embedding: [1.3503476892748207]
+
+Word: Football
+  Grammar: n0
+  Embedding: [-0.29645228007499425]
+  Grammar: n1
+  Embedding: [1.4487792791251473]
+  Grammar: n2
+  Embedding: [0.6155830349934596]
+
+Word: Four
+  Grammar: n@n.l0
+  Embedding: [0.8451914312998352]
+  Grammar: n@n.l1
+  Embedding: [-0.1928924166942915]
+  Grammar: n@n.l2
+  Embedding: [0.5694972163483146]
+
+Word: Indian
+  Grammar: n@n.l0
+  Embedding: [0.3738342463757043]
+  Grammar: n@n.l1
+  Embedding: [1.926548045799577]
+  Grammar: n@n.l2
+  Embedding: [-0.4709420174417869]
+
+Word: Kids
+  Grammar: n0
+  Embedding: [-0.2378716303643181]
+  Grammar: n1
+  Embedding: [1.0480874207852269]
+  Grammar: n2
+  Embedding: [-0.4532264481866945]
+
+Word: Nobody
+  Grammar: n0
+  Embedding: [0.3772194623825379]
+  Grammar: n1
+  Embedding: [0.8744065560286532]
+  Grammar: n2
+  Embedding: [0.48404876503018907]
+
+Word: Several
+  Grammar: n@n.l0
+  Embedding: [-0.7025143554668799]
+  Grammar: n@n.l1
+  Embedding: [1.4091453419783937]
+  Grammar: n@n.l2
+  Embedding: [0.9695290502379076]
+
+Word: The
+  Grammar: n@n.l0
+  Embedding: [1.0363787638479602]
+  Grammar: n@n.l1
+  Embedding: [0.44620065598830244]
+  Grammar: n@n.l2
+  Embedding: [-0.392852225592218]
+
+Word: There
+  Grammar: n0
+  Embedding: [1.1375824457710313]
+  Grammar: n1
+  Embedding: [0.8164302965072987]
+  Grammar: n2
+  Embedding: [-0.1392006930165755]
+
+Word: Three
+  Grammar: n@n.l0
+  Embedding: [0.3532516139711913]
+  Grammar: n@n.l1
+  Embedding: [0.38365690108524053]
+  Grammar: n@n.l2
+  Embedding: [0.348991834044556]
+
+Word: Two
+  Grammar: n@n.l0
+  Embedding: [0.964878582989521]
+  Grammar: n@n.l1
+  Embedding: [0.5163513366908066]
+  Grammar: n@n.l2
+  Embedding: [0.2377104279917573]
+
+Word: a
+  Grammar: n@n.l0
+  Embedding: [1.9497560828479377]
+  Grammar: n@n.l1
+  Embedding: [0.3506018484980872]
+  Grammar: n@n.l2
+  Embedding: [0.9781274589186957]
+
+Word: air,
+  Grammar: n0
+  Embedding: [-0.10927784894060452]
+  Grammar: n1
+  Embedding: [1.4324174524888695]
+  Grammar: n2
+  Embedding: [0.41528591006471494]
+
+Word: air
+  Grammar: n0
+  Embedding: [-0.30207003986576975]
+  Grammar: n1
+  Embedding: [-0.8523917071431328]
+  Grammar: n2
+  Embedding: [-0.05538046917115356]
+
+Word: alone
+  Grammar: s.r@n.r.r@n.r@s0
+  Embedding: [0.8257210719348308]
+  Grammar: s.r@n.r.r@n.r@s1
+  Embedding: [1.2832941364483381]
+  Grammar: s.r@n.r.r@n.r@s2
+  Embedding: [-0.3687092992627084]
+  Grammar: s.r@n.r.r@n.r@s3
+  Embedding: [0.015332564891434048]
+  Grammar: s.r@n.r.r@n.r@s4
+  Embedding: [0.3760119671987529]
+  Grammar: s.r@n.r.r@n.r@s5
+  Embedding: [0.7225582959051745]
+  Grammar: s.r@n.r.r@n.r@s6
+  Embedding: [0.45009613431802936]
+  Grammar: s.r@n.r.r@n.r@s7
+  Embedding: [0.893941217990283]
+  Grammar: s.r@n.r.r@n.r@s8
+  Embedding: [0.15215905880795844]
+
+Word: along
+  Grammar: s.r@n.r.r@n.r@n@n.l0
+  Embedding: [0.50251305103302]
+  Grammar: s.r@n.r.r@n.r@n@n.l1
+  Embedding: [0.7650270462036133]
+  Grammar: s.r@n.r.r@n.r@n@n.l10
+  Embedding: [0.9447031617164612]
+  Grammar: s.r@n.r.r@n.r@n@n.l11
+  Embedding: [0.04746365547180176]
+  Grammar: s.r@n.r.r@n.r@n@n.l2
+  Embedding: [0.8876596689224243]
+  Grammar: s.r@n.r.r@n.r@n@n.l3
+  Embedding: [0.6704315543174744]
+  Grammar: s.r@n.r.r@n.r@n@n.l4
+  Embedding: [0.9879631400108337]
+  Grammar: s.r@n.r.r@n.r@n@n.l5
+  Embedding: [0.9463595151901245]
+  Grammar: s.r@n.r.r@n.r@n@n.l6
+  Embedding: [0.3271175026893616]
+  Grammar: s.r@n.r.r@n.r@n@n.l7
+  Embedding: [0.2674418091773987]
+  Grammar: s.r@n.r.r@n.r@n@n.l8
+  Embedding: [0.8367046117782593]
+  Grammar: s.r@n.r.r@n.r@n@n.l9
+  Embedding: [0.7890291810035706]
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [0.9155542254447937]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [0.28732389211654663]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [0.6248397827148438]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.3249836564064026]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [0.12888598442077637]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.8117702603340149]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [0.6054911613464355]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [0.900285005569458]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [0.7515121698379517]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [0.15053033828735352]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [0.26779603958129883]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [0.654325008392334]
+
+Word: an
+  Grammar: n@n.l0
+  Embedding: [0.7566162117587825]
+  Grammar: n@n.l1
+  Embedding: [0.3885656528367192]
+  Grammar: n@n.l2
+  Embedding: [0.5612411081972494]
+
+Word: and
+  Grammar: n.r@n@n.l0
+  Embedding: [0.8258442878723145]
+  Grammar: n.r@n@n.l1
+  Embedding: [0.9576974511146545]
+  Grammar: n.r@n@n.l2
+  Embedding: [0.33789747953414917]
+  Grammar: n.r@n@n.l3
+  Embedding: [0.12775641679763794]
+  Grammar: n.r@n@n.l4
+  Embedding: [0.9933887124061584]
+  Grammar: n.r@n@n.l5
+  Embedding: [0.919838011264801]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n0
+  Embedding: [0.8589614644039922]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n1
+  Embedding: [1.1135208470994242]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n10
+  Embedding: [0.2999606386460494]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n11
+  Embedding: [0.48099140406793883]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n12
+  Embedding: [0.06644959815959792]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n13
+  Embedding: [0.8488888672344402]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n14
+  Embedding: [0.8967037438895616]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n2
+  Embedding: [-0.8330299090026183]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n3
+  Embedding: [0.6582494179319454]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n4
+  Embedding: [1.072134890067807]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n5
+  Embedding: [0.5227302484215549]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n6
+  Embedding: [-0.041583061093534615]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n7
+  Embedding: [0.9188845746991047]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n8
+  Embedding: [0.2328219218225885]
+  Grammar: s.r@n.r.r@n.r@s@s.l@n9
+  Embedding: [0.49013517704978754]
+  Grammar: s.r@s@s.l0
+  Embedding: [1.5271585571159085]
+  Grammar: s.r@s@s.l1
+  Embedding: [0.537386969164875]
+  Grammar: s.r@s@s.l2
+  Embedding: [0.6624961474995927]
+  Grammar: s.r@s@s.l3
+  Embedding: [1.8880829286368614]
+  Grammar: s.r@s@s.l4
+  Embedding: [-0.5915539988694125]
+  Grammar: s.r@s@s.l5
+  Embedding: [0.8814911645489001]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n0
+  Embedding: [-0.32535960994273116]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n1
+  Embedding: [1.5119948823730671]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n10
+  Embedding: [0.8854645313626011]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n11
+  Embedding: [-0.22730824374625833]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n12
+  Embedding: [0.7374451227739887]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n13
+  Embedding: [-0.0842954968535428]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n14
+  Embedding: [0.863766287636569]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n2
+  Embedding: [1.4358551043221683]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n3
+  Embedding: [1.2884620625538934]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n4
+  Embedding: [0.4631223819862528]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n5
+  Embedding: [0.45797296320298614]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n6
+  Embedding: [-0.87718258456931]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n7
+  Embedding: [0.6865968267782461]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n8
+  Embedding: [1.0791451764291344]
+  Grammar: s.r@n.r.r@n.r@n@s.l@n9
+  Embedding: [0.7323298966268735]
+
+Word: are
+  Grammar: n.r@s@n.l0
+  Embedding: [0.7856812662413833]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.32049008954643626]
+  Grammar: n.r@s@n.l2
+  Embedding: [1.1532160416187587]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.6258261560829584]
+  Grammar: n.r@s@n.l4
+  Embedding: [0.2853468096762435]
+  Grammar: n.r@s@n.l5
+  Embedding: [-0.016398612086948268]
+  Grammar: n.r@s@p.l0
+  Embedding: [0.3603789611666009]
+  Grammar: n.r@s@p.l1
+  Embedding: [1.0664944520381832]
+  Grammar: n.r@s@p.l2
+  Embedding: [0.0021549494855312573]
+  Grammar: n.r@s@p.l3
+  Embedding: [-0.09515602414917397]
+  Grammar: n.r@s@p.l4
+  Embedding: [1.1740237696661726]
+  Grammar: n.r@s@p.l5
+  Embedding: [1.1497828834262052]
+  Grammar: n.r@s@s.l@n0
+  Embedding: [0.30881013750181935]
+  Grammar: n.r@s@s.l@n1
+  Embedding: [0.007041821455908561]
+  Grammar: n.r@s@s.l@n2
+  Embedding: [-0.10264706074409692]
+  Grammar: n.r@s@s.l@n3
+  Embedding: [0.8013429050060065]
+  Grammar: n.r@s@s.l@n4
+  Embedding: [0.7403365178623131]
+  Grammar: n.r@s@s.l@n5
+  Embedding: [1.2632704203644054]
+  Grammar: n.r@s@s.l@n6
+  Embedding: [-0.44274449046192377]
+  Grammar: n.r@s@s.l@n7
+  Embedding: [0.616556366066894]
+  Grammar: n.r@s@s.l@n8
+  Embedding: [0.3655160759923868]
+
+Word: at
+  Grammar: p@n.l0
+  Embedding: [0.14168641844851546]
+  Grammar: p@n.l1
+  Embedding: [-0.3773646224369006]
+  Grammar: p@n.l2
+  Embedding: [0.49463557852472473]
+
+Word: backbends
+  Grammar: n0
+  Embedding: [-0.9784171593632525]
+  Grammar: n1
+  Embedding: [-0.52956784482669]
+  Grammar: n2
+  Embedding: [0.3086523263573656]
+
+Word: ball
+  Grammar: n0
+  Embedding: [1.0004127317728453]
+  Grammar: n1
+  Embedding: [0.23678700818294687]
+  Grammar: n2
+  Embedding: [0.35399376836906565]
+
+Word: baseball
+  Grammar: n@n.l0
+  Embedding: [-0.2137560192646267]
+  Grammar: n@n.l1
+  Embedding: [0.37865168835113044]
+  Grammar: n@n.l2
+  Embedding: [1.429547911509154]
+  Grammar: n0
+  Embedding: [0.9191582798957825]
+  Grammar: n1
+  Embedding: [0.3997388482093811]
+  Grammar: n2
+  Embedding: [0.4237022399902344]
+
+Word: behind
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [0.310956107893007]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [0.3282173129182394]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [0.877875179150575]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.3318332939115746]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [0.4428738815081152]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.2514727533346183]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [0.945227139075698]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [-0.16005564419736584]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [0.5415829222002287]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [0.7595542407187433]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [0.047417123399844344]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [-0.5540555721975501]
+
+Word: being
+  Grammar: n.r@s@s.l@n0
+  Embedding: [-0.15547369195165964]
+  Grammar: n.r@s@s.l@n1
+  Embedding: [0.0646175339578805]
+  Grammar: n.r@s@s.l@n2
+  Embedding: [-0.6058344375951824]
+  Grammar: n.r@s@s.l@n3
+  Embedding: [0.8921087632434577]
+  Grammar: n.r@s@s.l@n4
+  Embedding: [1.1872453404065961]
+  Grammar: n.r@s@s.l@n5
+  Embedding: [-0.6407374634433938]
+  Grammar: n.r@s@s.l@n6
+  Embedding: [1.4960910603628514]
+  Grammar: n.r@s@s.l@n7
+  Embedding: [-0.4791183371635417]
+  Grammar: n.r@s@s.l@n8
+  Embedding: [-1.2375358681718187]
+
+Word: bicycle
+  Grammar: n0
+  Embedding: [-0.4020623486317203]
+  Grammar: n1
+  Embedding: [0.6004761510382213]
+  Grammar: n2
+  Embedding: [0.669122021433443]
+
+Word: biker
+  Grammar: n0
+  Embedding: [1.8054361932924075]
+  Grammar: n1
+  Embedding: [0.19260211700811766]
+  Grammar: n2
+  Embedding: [-0.4512159173054745]
+
+Word: black
+  Grammar: n@n.l0
+  Embedding: [0.13931204850407394]
+  Grammar: n@n.l1
+  Embedding: [-0.14831393352811753]
+  Grammar: n@n.l2
+  Embedding: [-0.49492774106088705]
+
+Word: blond
+  Grammar: n@n.l0
+  Embedding: [0.4755102080882055]
+  Grammar: n@n.l1
+  Embedding: [0.19949803587361564]
+  Grammar: n@n.l2
+  Embedding: [0.8373397309441597]
+
+Word: boy
+  Grammar: n0
+  Embedding: [0.6607950925827026]
+  Grammar: n1
+  Embedding: [0.1897154450416565]
+  Grammar: n2
+  Embedding: [0.4541471004486084]
+
+Word: boys
+  Grammar: n0
+  Embedding: [0.44459268903746124]
+  Grammar: n1
+  Embedding: [0.9062747870042774]
+  Grammar: n2
+  Embedding: [0.6204227313980303]
+
+Word: building
+  Grammar: n0
+  Embedding: [0.35212477500747946]
+  Grammar: n1
+  Embedding: [-0.0755197752801294]
+  Grammar: n2
+  Embedding: [0.8798371745210116]
+
+Word: by
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [1.2578812099948122]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [1.11423954507623]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [-0.38831796499592686]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.867482402753528]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [-0.3886013630422877]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.5393786260654827]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [-0.6212168045921309]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [-0.09505187753808503]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [1.1997646723465898]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [0.04761832805524343]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [0.568807466008124]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [1.1144685000214334]
+  Grammar: s.r@n.r.r@n.r@n@n.l0
+  Embedding: [0.25527826403896703]
+  Grammar: s.r@n.r.r@n.r@n@n.l1
+  Embedding: [-0.5245545746707218]
+  Grammar: s.r@n.r.r@n.r@n@n.l10
+  Embedding: [0.6465790350384234]
+  Grammar: s.r@n.r.r@n.r@n@n.l11
+  Embedding: [1.46194747096685]
+  Grammar: s.r@n.r.r@n.r@n@n.l2
+  Embedding: [0.4109449025353543]
+  Grammar: s.r@n.r.r@n.r@n@n.l3
+  Embedding: [-0.14686439213487884]
+  Grammar: s.r@n.r.r@n.r@n@n.l4
+  Embedding: [0.5549846290374666]
+  Grammar: s.r@n.r.r@n.r@n@n.l5
+  Embedding: [0.8632659022118592]
+  Grammar: s.r@n.r.r@n.r@n@n.l6
+  Embedding: [0.18414354264145294]
+  Grammar: s.r@n.r.r@n.r@n@n.l7
+  Embedding: [0.6505089061314856]
+  Grammar: s.r@n.r.r@n.r@n@n.l8
+  Embedding: [0.7591019544736101]
+  Grammar: s.r@n.r.r@n.r@n@n.l9
+  Embedding: [0.6425237654888136]
+
+Word: child
+  Grammar: n0
+  Embedding: [0.22259122133255005]
+  Grammar: n1
+  Embedding: [0.7289910912513733]
+  Grammar: n2
+  Embedding: [0.5969095826148987]
+
+Word: children
+  Grammar: n0
+  Embedding: [-0.19947608178804158]
+  Grammar: n1
+  Embedding: [-0.5187373272301181]
+  Grammar: n2
+  Embedding: [0.879371125168051]
+
+Word: clothes
+  Grammar: n0
+  Embedding: [0.11627990007400513]
+  Grammar: n1
+  Embedding: [0.014018118381500244]
+  Grammar: n2
+  Embedding: [0.6741944551467896]
+
+Word: colorful
+  Grammar: n@n.l0
+  Embedding: [0.5652287473213509]
+  Grammar: n@n.l1
+  Embedding: [0.7290487748080259]
+  Grammar: n@n.l2
+  Embedding: [1.1347101776456898]
+
+Word: competing
+  Grammar: n.r@s0
+  Embedding: [-0.27024158527781317]
+  Grammar: n.r@s1
+  Embedding: [-0.23804286548875103]
+  Grammar: n.r@s2
+  Embedding: [0.14676410787379346]
+  Grammar: n@n.l0
+  Embedding: [-0.5151626879083879]
+  Grammar: n@n.l1
+  Embedding: [-0.07594441436913832]
+  Grammar: n@n.l2
+  Embedding: [-0.2432142366550516]
+
+Word: costume
+  Grammar: n0
+  Embedding: [0.966963219143223]
+  Grammar: n1
+  Embedding: [0.19869682423969176]
+  Grammar: n2
+  Embedding: [1.2770882907967778]
+
+Word: covered
+  Grammar: n.r@s0
+  Embedding: [-0.14532317347238272]
+  Grammar: n.r@s1
+  Embedding: [0.5724446905894448]
+  Grammar: n.r@s2
+  Embedding: [0.2753248923957591]
+
+Word: dancer
+  Grammar: n0
+  Embedding: [0.4917795594384326]
+  Grammar: n1
+  Embedding: [-0.23531459177443523]
+  Grammar: n2
+  Embedding: [0.42288533711463705]
+
+Word: dancing
+  Grammar: n.r@s0
+  Embedding: [0.6218128269678987]
+  Grammar: n.r@s1
+  Embedding: [1.2441844483959867]
+  Grammar: n.r@s2
+  Embedding: [0.16797060856965096]
+  Grammar: n.r@n0
+  Embedding: [0.16579974256702856]
+  Grammar: n.r@n1
+  Embedding: [-0.6498351209251505]
+  Grammar: n.r@n2
+  Embedding: [0.5813766734418784]
+
+Word: dangerously
+  Grammar: s.r@n.r.r@n.r@s0
+  Embedding: [0.5492212772369385]
+  Grammar: s.r@n.r.r@n.r@s1
+  Embedding: [0.7328984141349792]
+  Grammar: s.r@n.r.r@n.r@s2
+  Embedding: [0.813838005065918]
+  Grammar: s.r@n.r.r@n.r@s3
+  Embedding: [0.4837132692337036]
+  Grammar: s.r@n.r.r@n.r@s4
+  Embedding: [0.1412336826324463]
+  Grammar: s.r@n.r.r@n.r@s5
+  Embedding: [0.18920624256134033]
+  Grammar: s.r@n.r.r@n.r@s6
+  Embedding: [0.6160784959793091]
+  Grammar: s.r@n.r.r@n.r@s7
+  Embedding: [0.43758803606033325]
+  Grammar: s.r@n.r.r@n.r@s8
+  Embedding: [0.4980068802833557]
+
+Word: deer
+  Grammar: n@n.l0
+  Embedding: [0.43151426515027647]
+  Grammar: n@n.l1
+  Embedding: [0.2388467898815082]
+  Grammar: n@n.l2
+  Embedding: [1.5402307387284215]
+  Grammar: n0
+  Embedding: [-0.340260381394204]
+  Grammar: n1
+  Embedding: [0.1989326084374914]
+  Grammar: n2
+  Embedding: [0.15406453436809492]
+
+Word: dog
+  Grammar: n@n.l0
+  Embedding: [0.9276930093765259]
+  Grammar: n@n.l1
+  Embedding: [0.6115905046463013]
+  Grammar: n@n.l2
+  Embedding: [0.8313041925430298]
+  Grammar: n0
+  Embedding: [0.2169233199924666]
+  Grammar: n1
+  Embedding: [1.3451112109722076]
+  Grammar: n2
+  Embedding: [0.05570080493348437]
+
+Word: dogs
+  Grammar: n0
+  Embedding: [-0.43524701468967797]
+  Grammar: n1
+  Embedding: [0.6493890605705261]
+  Grammar: n2
+  Embedding: [0.5530594958148883]
+
+Word: doing
+  Grammar: n.r@s@n.l0
+  Embedding: [0.9493434305088366]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.8808075150571376]
+  Grammar: n.r@s@n.l2
+  Embedding: [0.28897958371009963]
+  Grammar: n.r@s@n.l3
+  Embedding: [1.2157681735754946]
+  Grammar: n.r@s@n.l4
+  Embedding: [1.5812598355129823]
+  Grammar: n.r@s@n.l5
+  Embedding: [0.8884954714339766]
+
+Word: empty
+  Grammar: n@n.l0
+  Embedding: [0.7578213189688792]
+  Grammar: n@n.l1
+  Embedding: [-0.5426618101828315]
+  Grammar: n@n.l2
+  Embedding: [0.5609079268136582]
+
+Word: enclosure
+  Grammar: n0
+  Embedding: [0.8122453159829293]
+  Grammar: n1
+  Embedding: [-0.049623426248642674]
+  Grammar: n2
+  Embedding: [1.868204021597743]
+
+Word: equipment
+  Grammar: n0
+  Embedding: [1.2604383923472042]
+  Grammar: n1
+  Embedding: [0.8225908123780449]
+  Grammar: n2
+  Embedding: [0.2624982852395062]
+
+Word: family
+  Grammar: n0
+  Embedding: [-0.3489709895422016]
+  Grammar: n1
+  Embedding: [0.7015835372365924]
+  Grammar: n2
+  Embedding: [0.18413240760391697]
+
+Word: fences
+  Grammar: n0
+  Embedding: [0.898142193408955]
+  Grammar: n1
+  Embedding: [-0.0750891992170257]
+  Grammar: n2
+  Embedding: [1.071383988586504]
+
+Word: fence
+  Grammar: n0
+  Embedding: [0.90088951404828]
+  Grammar: n1
+  Embedding: [1.631556261683683]
+  Grammar: n2
+  Embedding: [0.6257941595919152]
+
+Word: field
+  Grammar: n0
+  Embedding: [0.4320383835086928]
+  Grammar: n1
+  Embedding: [0.48320633661393564]
+  Grammar: n2
+  Embedding: [-0.061146325584663846]
+
+Word: fight
+  Grammar: n0
+  Embedding: [1.3523168649889898]
+  Grammar: n1
+  Embedding: [0.4726372562028316]
+  Grammar: n2
+  Embedding: [1.1720862628123545]
+
+Word: fighting
+  Grammar: n.r@s0
+  Embedding: [1.5628391642371158]
+  Grammar: n.r@s1
+  Embedding: [-0.48805010429755424]
+  Grammar: n.r@s2
+  Embedding: [1.3789166631578036]
+
+Word: football
+  Grammar: n0
+  Embedding: [-0.5085175123158178]
+  Grammar: n1
+  Embedding: [0.5762335507380815]
+  Grammar: n2
+  Embedding: [1.3934844986663448]
+  Grammar: n@n.l0
+  Embedding: [-0.3701811803994456]
+  Grammar: n@n.l1
+  Embedding: [-0.09143420754938333]
+  Grammar: n@n.l2
+  Embedding: [-0.7983015778240339]
+
+Word: front
+  Grammar: n0
+  Embedding: [0.7327880298969376]
+  Grammar: n1
+  Embedding: [0.8119483653331028]
+  Grammar: n2
+  Embedding: [1.1909135133447515]
+
+Word: full
+  Grammar: n@n.l0
+  Embedding: [0.7262195683437288]
+  Grammar: n@n.l1
+  Embedding: [0.009019188245248845]
+  Grammar: n@n.l2
+  Embedding: [0.251409667220191]
+
+Word: game
+  Grammar: n0
+  Embedding: [0.34096133994409755]
+  Grammar: n1
+  Embedding: [0.21586920250855332]
+  Grammar: n2
+  Embedding: [1.509678426143204]
+
+Word: garden
+  Grammar: n0
+  Embedding: [1.1071956474198892]
+  Grammar: n1
+  Embedding: [0.37650031687641883]
+  Grammar: n2
+  Embedding: [0.2376899564470453]
+
+Word: girl
+  Grammar: n0
+  Embedding: [0.4284944125664824]
+  Grammar: n1
+  Embedding: [0.9798084163822282]
+  Grammar: n2
+  Embedding: [-0.3256318545486951]
+
+Word: girls
+  Grammar: n0
+  Embedding: [1.1280350629071454]
+  Grammar: n1
+  Embedding: [0.4266496477904871]
+  Grammar: n2
+  Embedding: [0.1119391707777037]
+
+Word: glasses
+  Grammar: n0
+  Embedding: [0.4612607346453061]
+  Grammar: n1
+  Embedding: [-0.6132596004412394]
+  Grammar: n2
+  Embedding: [1.054531484755117]
+
+Word: grass
+  Grammar: n@n.l0
+  Embedding: [0.26924777030944824]
+  Grammar: n@n.l1
+  Embedding: [0.3033033013343811]
+  Grammar: n@n.l2
+  Embedding: [0.9488742351531982]
+
+Word: groups
+  Grammar: n0
+  Embedding: [0.3681918077509841]
+  Grammar: n1
+  Embedding: [1.0970424512609749]
+  Grammar: n2
+  Embedding: [0.5732248156407825]
+
+Word: gym
+  Grammar: n0
+  Embedding: [0.1461135587134312]
+  Grammar: n1
+  Embedding: [0.41686039799303054]
+  Grammar: n2
+  Embedding: [0.7166254871644305]
+
+Word: hat
+  Grammar: n0
+  Embedding: [-0.06800552863654168]
+  Grammar: n1
+  Embedding: [0.4060899557625595]
+  Grammar: n2
+  Embedding: [0.17542891177167555]
+
+Word: headdress
+  Grammar: n0
+  Embedding: [0.5189576376275676]
+  Grammar: n1
+  Embedding: [0.536441946545022]
+  Grammar: n2
+  Embedding: [0.6255265434834553]
+
+Word: head
+  Grammar: n0
+  Embedding: [-0.23829132698744016]
+  Grammar: n1
+  Embedding: [1.0226848347360709]
+  Grammar: n2
+  Embedding: [0.40500050102889346]
+
+Word: her
+  Grammar: n@n.l0
+  Embedding: [0.8587112782223325]
+  Grammar: n@n.l1
+  Embedding: [1.1731087487415321]
+  Grammar: n@n.l2
+  Embedding: [1.8221209978316029]
+
+Word: hitting
+  Grammar: n.r@s@n.l0
+  Embedding: [0.263808012008667]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.283269464969635]
+  Grammar: n.r@s@n.l2
+  Embedding: [0.011007368564605713]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.2661307454109192]
+  Grammar: n.r@s@n.l4
+  Embedding: [0.45802879333496094]
+  Grammar: n.r@s@n.l5
+  Embedding: [0.35125553607940674]
+
+Word: hugging
+  Grammar: n.r@s0
+  Embedding: [0.593019053879109]
+  Grammar: n.r@s1
+  Embedding: [0.7150184468673982]
+  Grammar: n.r@s2
+  Embedding: [0.6581584465922092]
+  Grammar: n0
+  Embedding: [0.6493924260139465]
+  Grammar: n1
+  Embedding: [0.7667875289916992]
+  Grammar: n2
+  Embedding: [0.7264372706413269]
+
+Word: hut
+  Grammar: n0
+  Embedding: [0.8455704731238601]
+  Grammar: n1
+  Embedding: [0.301041047071549]
+  Grammar: n2
+  Embedding: [1.0209185565678374]
+
+Word: in
+  Grammar: n.r@n@n.l0
+  Embedding: [0.06649727821003258]
+  Grammar: n.r@n@n.l1
+  Embedding: [0.538456500149104]
+  Grammar: n.r@n@n.l2
+  Embedding: [0.5219678266657195]
+  Grammar: n.r@n@n.l3
+  Embedding: [0.4589705340045322]
+  Grammar: n.r@n@n.l4
+  Embedding: [0.615656704324495]
+  Grammar: n.r@n@n.l5
+  Embedding: [0.7793962276731866]
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [-0.2997441780968027]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [0.027131574094549082]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [-0.013322918330626451]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [-0.4515995720107375]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [0.3353524464668914]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.148131685948994]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [1.4936610401909787]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [1.1022827182105126]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [-0.08164470420241496]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [1.4247759117791565]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [-0.3876813643883833]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [-0.2578867114026162]
+  Grammar: p@n.l0
+  Embedding: [-0.11788132092363804]
+  Grammar: p@n.l1
+  Embedding: [1.5808915714899288]
+  Grammar: p@n.l2
+  Embedding: [1.1139866510617324]
+  Grammar: s.r@n.r.r@n.r@n@n.l0
+  Embedding: [0.417701759709715]
+  Grammar: s.r@n.r.r@n.r@n@n.l1
+  Embedding: [0.664462571567429]
+  Grammar: s.r@n.r.r@n.r@n@n.l10
+  Embedding: [0.8112775952236295]
+  Grammar: s.r@n.r.r@n.r@n@n.l11
+  Embedding: [1.135252972419651]
+  Grammar: s.r@n.r.r@n.r@n@n.l2
+  Embedding: [1.2755870403326868]
+  Grammar: s.r@n.r.r@n.r@n@n.l3
+  Embedding: [-0.7590079701151574]
+  Grammar: s.r@n.r.r@n.r@n@n.l4
+  Embedding: [1.2904781358802506]
+  Grammar: s.r@n.r.r@n.r@n@n.l5
+  Embedding: [0.5771376333287874]
+  Grammar: s.r@n.r.r@n.r@n@n.l6
+  Embedding: [0.5435132575848496]
+  Grammar: s.r@n.r.r@n.r@n@n.l7
+  Embedding: [0.5037250230340324]
+  Grammar: s.r@n.r.r@n.r@n@n.l8
+  Embedding: [0.5233458551549335]
+  Grammar: s.r@n.r.r@n.r@n@n.l9
+  Embedding: [0.5680366754191629]
+
+Word: indoors
+  Grammar: s.r@n.r.r@n.r@s0
+  Embedding: [0.19278857960385037]
+  Grammar: s.r@n.r.r@n.r@s1
+  Embedding: [0.17919201151910122]
+  Grammar: s.r@n.r.r@n.r@s2
+  Embedding: [1.2605903266824923]
+  Grammar: s.r@n.r.r@n.r@s3
+  Embedding: [0.6750588197168218]
+  Grammar: s.r@n.r.r@n.r@s4
+  Embedding: [0.9417168651387412]
+  Grammar: s.r@n.r.r@n.r@s5
+  Embedding: [-0.2974634131756574]
+  Grammar: s.r@n.r.r@n.r@s6
+  Embedding: [-0.15646817562695864]
+  Grammar: s.r@n.r.r@n.r@s7
+  Embedding: [0.3025860188462968]
+  Grammar: s.r@n.r.r@n.r@s8
+  Embedding: [0.7945559668897629]
+
+Word: into
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [-0.1367544731946459]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [0.7123238915354465]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [0.7098205654423068]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.4864205190324989]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [-1.0562629317984833]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [1.1142618631765469]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [1.2371859280454807]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [-0.4517692643187503]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [2.201203577129858]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [1.0625140581600547]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [0.13563792347299747]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [0.55798670824515]
+
+Word: is
+  Grammar: n.r@s@n.l0
+  Embedding: [-0.49722373336084635]
+  Grammar: n.r@s@n.l1
+  Embedding: [-0.642204670809127]
+  Grammar: n.r@s@n.l2
+  Embedding: [0.9994314925066989]
+  Grammar: n.r@s@n.l3
+  Embedding: [-0.11050029139226858]
+  Grammar: n.r@s@n.l4
+  Embedding: [1.437237357822048]
+  Grammar: n.r@s@n.l5
+  Embedding: [1.0260519743650214]
+  Grammar: n.r@s@p.l0
+  Embedding: [0.8641219122869049]
+  Grammar: n.r@s@p.l1
+  Embedding: [0.6036938620675801]
+  Grammar: n.r@s@p.l2
+  Embedding: [-0.016277281634685597]
+  Grammar: n.r@s@p.l3
+  Embedding: [0.9122385149106775]
+  Grammar: n.r@s@p.l4
+  Embedding: [0.6649578683369398]
+  Grammar: n.r@s@p.l5
+  Embedding: [1.2139738623323864]
+  Grammar: n.r@s@s.l@n0
+  Embedding: [0.301974064444845]
+  Grammar: n.r@s@s.l@n1
+  Embedding: [0.7706929765364112]
+  Grammar: n.r@s@s.l@n2
+  Embedding: [1.0947252495449633]
+  Grammar: n.r@s@s.l@n3
+  Embedding: [0.6462759297000853]
+  Grammar: n.r@s@s.l@n4
+  Embedding: [0.557000871363722]
+  Grammar: n.r@s@s.l@n5
+  Embedding: [1.0695749123482743]
+  Grammar: n.r@s@s.l@n6
+  Embedding: [0.28228778547996913]
+  Grammar: n.r@s@s.l@n7
+  Embedding: [1.1667359660780219]
+  Grammar: n.r@s@s.l@n8
+  Embedding: [0.9951542351431635]
+
+Word: isn't
+  Grammar: n.r@s@s.l@n0
+  Embedding: [0.732351468637358]
+  Grammar: n.r@s@s.l@n1
+  Embedding: [-0.8190106547438115]
+  Grammar: n.r@s@s.l@n2
+  Embedding: [0.22120682775072792]
+  Grammar: n.r@s@s.l@n3
+  Embedding: [-0.03631978020566776]
+  Grammar: n.r@s@s.l@n4
+  Embedding: [-0.3962879400733634]
+  Grammar: n.r@s@s.l@n5
+  Embedding: [0.018437589384286777]
+  Grammar: n.r@s@s.l@n6
+  Embedding: [0.8834586205195518]
+  Grammar: n.r@s@s.l@n7
+  Embedding: [1.116928583485076]
+  Grammar: n.r@s@s.l@n8
+  Embedding: [0.053486364123175235]
+
+Word: jumping
+  Grammar: n.r@s0
+  Embedding: [0.23093885946000942]
+  Grammar: n.r@s1
+  Embedding: [0.8659630210714004]
+  Grammar: n.r@s2
+  Embedding: [-0.7095044813657142]
+  Grammar: n.r@s@n.l0
+  Embedding: [-0.698948175609366]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.10338563392274279]
+  Grammar: n.r@s@n.l2
+  Embedding: [0.17555635053731194]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.5312433568145871]
+  Grammar: n.r@s@n.l4
+  Embedding: [0.07541637525480797]
+  Grammar: n.r@s@n.l5
+  Embedding: [-0.16227213832682835]
+  Grammar: n@n.l0
+  Embedding: [0.48112146301492703]
+  Grammar: n@n.l1
+  Embedding: [0.9526221524705242]
+  Grammar: n@n.l2
+  Embedding: [0.4696774686540386]
+
+Word: kickboxing
+  Grammar: n.r@s0
+  Embedding: [-0.9447051505407021]
+  Grammar: n.r@s1
+  Embedding: [-0.5209176456209086]
+  Grammar: n.r@s2
+  Embedding: [-1.2369726900348743]
+  Grammar: n@n.l0
+  Embedding: [-0.03467728319855818]
+  Grammar: n@n.l1
+  Embedding: [-0.7177368564718142]
+  Grammar: n@n.l2
+  Embedding: [-0.010598039209622594]
+
+Word: kids
+  Grammar: n0
+  Embedding: [-0.08917049937934762]
+  Grammar: n1
+  Embedding: [1.436570151062804]
+  Grammar: n2
+  Embedding: [0.7883138029201058]
+
+Word: leaping
+  Grammar: n.r@s0
+  Embedding: [0.8429367236693776]
+  Grammar: n.r@s1
+  Embedding: [0.2652556478582565]
+  Grammar: n.r@s2
+  Embedding: [1.0176635612256826]
+
+Word: leaves
+  Grammar: n0
+  Embedding: [-0.14428818938219265]
+  Grammar: n1
+  Embedding: [1.8006354170544505]
+  Grammar: n2
+  Embedding: [-0.40615067875636074]
+
+Word: like
+  Grammar: p@n.l0
+  Embedding: [0.7550160253633221]
+  Grammar: p@n.l1
+  Embedding: [0.6300237178770783]
+  Grammar: p@n.l2
+  Embedding: [0.8913467293429924]
+
+Word: little
+  Grammar: n@n.l0
+  Embedding: [0.1285718223769848]
+  Grammar: n@n.l1
+  Embedding: [0.9197293882393605]
+  Grammar: n@n.l2
+  Embedding: [-0.11029284916077337]
+
+Word: lone
+  Grammar: n@n.l0
+  Embedding: [1.0182696733058454]
+  Grammar: n@n.l1
+  Embedding: [0.08241349065645691]
+  Grammar: n@n.l2
+  Embedding: [0.291467747424699]
+
+Word: looking
+  Grammar: n.r@s@p.l0
+  Embedding: [0.9621155199622199]
+  Grammar: n.r@s@p.l1
+  Embedding: [0.48932527991921565]
+  Grammar: n.r@s@p.l2
+  Embedding: [0.1435410320413651]
+  Grammar: n.r@s@p.l3
+  Embedding: [0.9013303242694517]
+  Grammar: n.r@s@p.l4
+  Embedding: [0.5167735210349285]
+  Grammar: n.r@s@p.l5
+  Embedding: [0.9758389568877812]
+  Grammar: n.r@s0
+  Embedding: [0.24956579742081508]
+  Grammar: n.r@s1
+  Embedding: [0.6387389639145187]
+  Grammar: n.r@s2
+  Embedding: [0.447183960040701]
+
+Word: looks
+  Grammar: n.r@s@p.l0
+  Embedding: [0.996610472023115]
+  Grammar: n.r@s@p.l1
+  Embedding: [0.6340923300980673]
+  Grammar: n.r@s@p.l2
+  Embedding: [0.9112884908495766]
+  Grammar: n.r@s@p.l3
+  Embedding: [0.5352948227018582]
+  Grammar: n.r@s@p.l4
+  Embedding: [0.3245923297305654]
+  Grammar: n.r@s@p.l5
+  Embedding: [0.739503191806187]
+
+Word: man
+  Grammar: n0
+  Embedding: [-0.29322305661413817]
+  Grammar: n1
+  Embedding: [0.8471715857306296]
+  Grammar: n2
+  Embedding: [-0.6580859512434691]
+
+Word: match
+  Grammar: n0
+  Embedding: [0.016477326944183548]
+  Grammar: n1
+  Embedding: [0.520674106709021]
+  Grammar: n2
+  Embedding: [0.9885262238533243]
+
+Word: motorbike
+  Grammar: n0
+  Embedding: [0.05684638023376465]
+  Grammar: n1
+  Embedding: [0.9346102476119995]
+  Grammar: n2
+  Embedding: [0.09161323308944702]
+
+Word: motorcyclist
+  Grammar: n0
+  Embedding: [0.14735406637191772]
+  Grammar: n1
+  Embedding: [0.046444594860076904]
+  Grammar: n2
+  Embedding: [0.32431358098983765]
+
+Word: no
+  Grammar: n@n.l0
+  Embedding: [0.8480283865103218]
+  Grammar: n@n.l1
+  Embedding: [0.3212701548036922]
+  Grammar: n@n.l2
+  Embedding: [0.7207212290492189]
+
+Word: not
+  Grammar: s.r@n.r.r@n.r@s0
+  Embedding: [0.8154677152633667]
+  Grammar: s.r@n.r.r@n.r@s1
+  Embedding: [0.8631143569946289]
+  Grammar: s.r@n.r.r@n.r@s2
+  Embedding: [0.3907289505004883]
+  Grammar: s.r@n.r.r@n.r@s3
+  Embedding: [0.534789502620697]
+  Grammar: s.r@n.r.r@n.r@s4
+  Embedding: [0.9434651136398315]
+  Grammar: s.r@n.r.r@n.r@s5
+  Embedding: [0.2600744962692261]
+  Grammar: s.r@n.r.r@n.r@s6
+  Embedding: [0.8877407312393188]
+  Grammar: s.r@n.r.r@n.r@s7
+  Embedding: [0.056901752948760986]
+  Grammar: s.r@n.r.r@n.r@s8
+  Embedding: [0.49745476245880127]
+
+Word: of
+  Grammar: n.r@n@n.l0
+  Embedding: [0.7572280190206708]
+  Grammar: n.r@n@n.l1
+  Embedding: [-0.33026284141763984]
+  Grammar: n.r@n@n.l2
+  Embedding: [0.8063235815611529]
+  Grammar: n.r@n@n.l3
+  Embedding: [-0.20939932032420153]
+  Grammar: n.r@n@n.l4
+  Embedding: [1.3388722368095134]
+  Grammar: n.r@n@n.l5
+  Embedding: [-0.7602123645161042]
+
+Word: old
+  Grammar: n@n.l0
+  Embedding: [0.11196508643223814]
+  Grammar: n@n.l1
+  Embedding: [0.3261501452804104]
+  Grammar: n@n.l2
+  Embedding: [0.5528665093607258]
+
+Word: one
+  Grammar: n@n.l0
+  Embedding: [0.47719491230676736]
+  Grammar: n@n.l1
+  Embedding: [0.8243516538701267]
+  Grammar: n@n.l2
+  Embedding: [-0.0900924738874215]
+
+Word: on
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [0.5055431973735689]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [1.3407671515620307]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [0.2962569265209141]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.6294135528849775]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [-0.09836854827744274]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.25992083944523026]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [0.947950173772547]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [0.8419787314988477]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [-0.1975150089457156]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [1.4605185377228485]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [1.0062007828542279]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [-0.6566683948729105]
+
+Word: or
+  Grammar: n.r@n@n.l0
+  Embedding: [-0.11945627473745696]
+  Grammar: n.r@n@n.l1
+  Embedding: [1.2335469717334588]
+  Grammar: n.r@n@n.l2
+  Embedding: [-0.0016307744946947268]
+  Grammar: n.r@n@n.l3
+  Embedding: [0.5032149504164141]
+  Grammar: n.r@n@n.l4
+  Embedding: [0.08102752268313253]
+  Grammar: n.r@n@n.l5
+  Embedding: [0.21045144491359025]
+
+Word: outdoors
+  Grammar: s.r@n.r.r@n.r@s0
+  Embedding: [0.11195145197258252]
+  Grammar: s.r@n.r.r@n.r@s1
+  Embedding: [-0.3502299831258273]
+  Grammar: s.r@n.r.r@n.r@s2
+  Embedding: [-0.20716766569626763]
+  Grammar: s.r@n.r.r@n.r@s3
+  Embedding: [0.8419269676193459]
+  Grammar: s.r@n.r.r@n.r@s4
+  Embedding: [0.8203978284036613]
+  Grammar: s.r@n.r.r@n.r@s5
+  Embedding: [0.21875831583850364]
+  Grammar: s.r@n.r.r@n.r@s6
+  Embedding: [0.3423814439915406]
+  Grammar: s.r@n.r.r@n.r@s7
+  Embedding: [0.7793132432637425]
+  Grammar: s.r@n.r.r@n.r@s8
+  Embedding: [1.2156355559153327]
+
+Word: over
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [1.5613701319743822]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [1.2499062242211547]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [0.7476850646098104]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [1.0673024255746115]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [-0.5019681646114725]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [-0.023828433756833873]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [1.0069302467866807]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [0.43771243803193016]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [1.0433019521754132]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [0.5887855600940747]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [1.25011689356031]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [0.7135840590908898]
+
+Word: park
+  Grammar: n0
+  Embedding: [0.2301642891514635]
+  Grammar: n1
+  Embedding: [-0.17984220257886824]
+  Grammar: n2
+  Embedding: [0.28924600969945313]
+
+Word: patiently
+  Grammar: n.r@s@s.l@n0
+  Embedding: [0.5146015508755848]
+  Grammar: n.r@s@s.l@n1
+  Embedding: [1.220581231401806]
+  Grammar: n.r@s@s.l@n2
+  Embedding: [0.2967923299470613]
+  Grammar: n.r@s@s.l@n3
+  Embedding: [0.4446125280368578]
+  Grammar: n.r@s@s.l@n4
+  Embedding: [1.806976202956235]
+  Grammar: n.r@s@s.l@n5
+  Embedding: [0.10921444846623882]
+  Grammar: n.r@s@s.l@n6
+  Embedding: [0.2961734012404385]
+  Grammar: n.r@s@s.l@n7
+  Embedding: [0.41112358899181517]
+  Grammar: n.r@s@s.l@n8
+  Embedding: [1.5447001904571047]
+
+Word: people
+  Grammar: n0
+  Embedding: [0.3019744919821257]
+  Grammar: n1
+  Embedding: [1.420099268570922]
+  Grammar: n2
+  Embedding: [0.3153375480449374]
+
+Word: person
+  Grammar: n0
+  Embedding: [0.40853971242904663]
+  Grammar: n1
+  Embedding: [0.6076400279998779]
+  Grammar: n2
+  Embedding: [0.9676351547241211]
+
+Word: plant
+  Grammar: n0
+  Embedding: [0.3459964165488647]
+  Grammar: n1
+  Embedding: [0.12972317594331478]
+  Grammar: n2
+  Embedding: [0.7080407906547124]
+
+Word: played
+  Grammar: n.r@s0
+  Embedding: [0.4852939307640939]
+  Grammar: n.r@s1
+  Embedding: [0.6811893497797759]
+  Grammar: n.r@s2
+  Embedding: [0.9681749610499236]
+
+Word: player
+  Grammar: n0
+  Embedding: [0.5096740566169607]
+  Grammar: n1
+  Embedding: [-0.6059633623466046]
+  Grammar: n2
+  Embedding: [0.1073413538015967]
+
+Word: playing
+  Grammar: n.r@s0
+  Embedding: [0.07633136429237432]
+  Grammar: n.r@s1
+  Embedding: [1.8191488791074355]
+  Grammar: n.r@s2
+  Embedding: [1.510326019217699]
+  Grammar: n.r@s@n.l0
+  Embedding: [-0.6582675101400169]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.38691862523605886]
+  Grammar: n.r@s@n.l2
+  Embedding: [1.2610764233297949]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.020612869916068165]
+  Grammar: n.r@s@n.l4
+  Embedding: [-0.2099368912960581]
+  Grammar: n.r@s@n.l5
+  Embedding: [1.8935602775275109]
+
+Word: pool
+  Grammar: n0
+  Embedding: [0.6519538760185242]
+  Grammar: n1
+  Embedding: [0.6577545404434204]
+  Grammar: n2
+  Embedding: [0.5689179301261902]
+
+Word: red
+  Grammar: n@n.l0
+  Embedding: [0.7571151267966831]
+  Grammar: n@n.l1
+  Embedding: [1.6632813253801488]
+  Grammar: n@n.l2
+  Embedding: [0.7120213397734673]
+
+Word: riding
+  Grammar: n.r@s@n.l0
+  Embedding: [0.11397969722747803]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.7731286287307739]
+  Grammar: n.r@s@n.l2
+  Embedding: [0.050844669342041016]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.014905810356140137]
+  Grammar: n.r@s@n.l4
+  Embedding: [0.3469998240470886]
+  Grammar: n.r@s@n.l5
+  Embedding: [0.4791889190673828]
+
+Word: roadway
+  Grammar: n0
+  Embedding: [0.5314158201217651]
+  Grammar: n1
+  Embedding: [0.6517924070358276]
+  Grammar: n2
+  Embedding: [0.9102004170417786]
+
+Word: running
+  Grammar: n.r@s0
+  Embedding: [1.708410346540583]
+  Grammar: n.r@s1
+  Embedding: [1.436038721934118]
+  Grammar: n.r@s2
+  Embedding: [0.30290858660884956]
+
+Word: shirts
+  Grammar: n0
+  Embedding: [0.5569877442095306]
+  Grammar: n1
+  Embedding: [0.884272476371042]
+  Grammar: n2
+  Embedding: [0.2340642840374046]
+
+Word: sitting
+  Grammar: n.r@s0
+  Embedding: [-0.24180518156332803]
+  Grammar: n.r@s1
+  Embedding: [0.46477639123613806]
+  Grammar: n.r@s2
+  Embedding: [0.29179006299842436]
+
+Word: skilled
+  Grammar: n@n.l0
+  Embedding: [0.23215699195861816]
+  Grammar: n@n.l1
+  Embedding: [0.14982092380523682]
+  Grammar: n@n.l2
+  Embedding: [0.47710227966308594]
+
+Word: sleeping
+  Grammar: n.r@s0
+  Embedding: [0.24180607423052608]
+  Grammar: n.r@s1
+  Embedding: [-0.30219828662033726]
+  Grammar: n.r@s2
+  Embedding: [0.693862762562918]
+
+Word: some
+  Grammar: n@n.l0
+  Embedding: [0.9495815172716642]
+  Grammar: n@n.l1
+  Embedding: [0.4977391498094481]
+  Grammar: n@n.l2
+  Embedding: [1.1685166519219266]
+
+Word: sound
+  Grammar: n@n.l0
+  Embedding: [0.8958565869135251]
+  Grammar: n@n.l1
+  Embedding: [0.9456511839461667]
+  Grammar: n@n.l2
+  Embedding: [0.6271037015455398]
+
+Word: sparring
+  Grammar: n.r@s0
+  Embedding: [0.0919409973635042]
+  Grammar: n.r@s1
+  Embedding: [0.5222170021239675]
+  Grammar: n.r@s2
+  Embedding: [-0.3813696681881799]
+
+Word: spectators
+  Grammar: n0
+  Embedding: [0.5712710475928787]
+  Grammar: n1
+  Embedding: [1.4773404094407807]
+  Grammar: n2
+  Embedding: [-0.17433194515559242]
+
+Word: standing
+  Grammar: n.r@s0
+  Embedding: [1.2169547625532244]
+  Grammar: n.r@s1
+  Embedding: [0.4933608652390655]
+  Grammar: n.r@s2
+  Embedding: [0.8910493958733118]
+
+Word: sunglasses
+  Grammar: n0
+  Embedding: [1.4226502916275015]
+  Grammar: n1
+  Embedding: [-0.658330084130427]
+  Grammar: n2
+  Embedding: [-0.15014358020018334]
+
+Word: swimming
+  Grammar: n@n.l0
+  Embedding: [0.3696364760398865]
+  Grammar: n@n.l1
+  Embedding: [0.1658698320388794]
+  Grammar: n@n.l2
+  Embedding: [0.5647451281547546]
+
+Word: teams
+  Grammar: n0
+  Embedding: [1.1495089454608725]
+  Grammar: n1
+  Embedding: [-0.456965216628272]
+  Grammar: n2
+  Embedding: [0.6185155272302798]
+
+Word: the
+  Grammar: n@n.l0
+  Embedding: [0.4210040952624994]
+  Grammar: n@n.l1
+  Embedding: [1.5155704017297862]
+  Grammar: n@n.l2
+  Embedding: [1.0092779251964128]
+
+Word: three
+  Grammar: n@n.l0
+  Embedding: [1.255880118915642]
+  Grammar: n@n.l1
+  Embedding: [-0.5055224528794778]
+  Grammar: n@n.l2
+  Embedding: [1.3652135020916154]
+
+Word: throwing
+  Grammar: n.r@s@n.l0
+  Embedding: [1.0884154469209488]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.32055765807171765]
+  Grammar: n.r@s@n.l2
+  Embedding: [1.283908205353653]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.9973415180017456]
+  Grammar: n.r@s@n.l4
+  Embedding: [0.9736669641462986]
+  Grammar: n.r@s@n.l5
+  Embedding: [-0.5587355453051802]
+
+Word: tree
+  Grammar: n0
+  Embedding: [0.6188824320031038]
+  Grammar: n1
+  Embedding: [1.2416224510886729]
+  Grammar: n2
+  Embedding: [0.5870077207172141]
+
+Word: two
+  Grammar: n@n.l0
+  Embedding: [1.07400502541834]
+  Grammar: n@n.l1
+  Embedding: [0.0917002960557033]
+  Grammar: n@n.l2
+  Embedding: [0.587177727852834]
+
+Word: waiting
+  Grammar: n.r@s0
+  Embedding: [0.8670268633767351]
+  Grammar: n.r@s1
+  Embedding: [0.8693462285848098]
+  Grammar: n.r@s2
+  Embedding: [0.6190983340145274]
+
+Word: watching
+  Grammar: n.r@s0
+  Embedding: [0.35070540430932934]
+  Grammar: n.r@s1
+  Embedding: [0.2957123766082439]
+  Grammar: n.r@s2
+  Embedding: [1.6159823470436017]
+
+Word: wearing
+  Grammar: n.r@s@n.l0
+  Embedding: [-0.1754529118344783]
+  Grammar: n.r@s@n.l1
+  Embedding: [0.8159247359897718]
+  Grammar: n.r@s@n.l2
+  Embedding: [-0.7898185144081549]
+  Grammar: n.r@s@n.l3
+  Embedding: [0.29881453901992683]
+  Grammar: n.r@s@n.l4
+  Embedding: [-0.686199339615482]
+  Grammar: n.r@s@n.l5
+  Embedding: [0.877456630791133]
+
+Word: wheel
+  Grammar: n0
+  Embedding: [-0.05143975318369527]
+  Grammar: n1
+  Embedding: [1.3938016629867798]
+  Grammar: n2
+  Embedding: [0.534846391977365]
+
+Word: white
+  Grammar: n0
+  Embedding: [1.0191445308323819]
+  Grammar: n1
+  Embedding: [-1.1072474312542067]
+  Grammar: n2
+  Embedding: [-0.34759000720337635]
+  Grammar: n@n.l0
+  Embedding: [0.9601030945777893]
+  Grammar: n@n.l1
+  Embedding: [0.07529520988464355]
+  Grammar: n@n.l2
+  Embedding: [0.5787529349327087]
+
+Word: wild
+  Grammar: n@n.l0
+  Embedding: [0.8816655968928658]
+  Grammar: n@n.l1
+  Embedding: [0.7224898848262624]
+  Grammar: n@n.l2
+  Embedding: [0.09874285504122157]
+
+Word: with
+  Grammar: n.r@n@n.l0
+  Embedding: [-0.2580127333588494]
+  Grammar: n.r@n@n.l1
+  Embedding: [-0.09036630213239921]
+  Grammar: n.r@n@n.l2
+  Embedding: [-0.13888502254073432]
+  Grammar: n.r@n@n.l3
+  Embedding: [-0.2748043841548797]
+  Grammar: n.r@n@n.l4
+  Embedding: [-0.019332756403285904]
+  Grammar: n.r@n@n.l5
+  Embedding: [0.9516511567896058]
+  Grammar: s.r@n.r.r@n.r@s@n.l0
+  Embedding: [0.6287089823136303]
+  Grammar: s.r@n.r.r@n.r@s@n.l1
+  Embedding: [-0.14522732832708132]
+  Grammar: s.r@n.r.r@n.r@s@n.l10
+  Embedding: [1.4854165328445523]
+  Grammar: s.r@n.r.r@n.r@s@n.l11
+  Embedding: [0.27344355824883576]
+  Grammar: s.r@n.r.r@n.r@s@n.l2
+  Embedding: [0.7342930499667901]
+  Grammar: s.r@n.r.r@n.r@s@n.l3
+  Embedding: [0.5602408578900023]
+  Grammar: s.r@n.r.r@n.r@s@n.l4
+  Embedding: [0.12519728813781317]
+  Grammar: s.r@n.r.r@n.r@s@n.l5
+  Embedding: [0.35856940032149387]
+  Grammar: s.r@n.r.r@n.r@s@n.l6
+  Embedding: [0.998125575153062]
+  Grammar: s.r@n.r.r@n.r@s@n.l7
+  Embedding: [0.29583835060699964]
+  Grammar: s.r@n.r.r@n.r@s@n.l8
+  Embedding: [0.06686740742883264]
+  Grammar: s.r@n.r.r@n.r@s@n.l9
+  Embedding: [0.6857402957982481]
+
+Word: woman
+  Grammar: n0
+  Embedding: [-0.4651231970480757]
+  Grammar: n1
+  Embedding: [1.903698721017999]
+  Grammar: n2
+  Embedding: [-0.4199644824698125]
+
+Word: women
+  Grammar: n0
+  Embedding: [0.2814888412259267]
+  Grammar: n1
+  Embedding: [-0.013157951832832158]
+  Grammar: n2
+  Embedding: [0.6670709581639422]
+
+Word: wooden
+  Grammar: n@n.l0
+  Embedding: [0.7518745435753783]
+  Grammar: n@n.l1
+  Embedding: [0.09554958777279214]
+  Grammar: n@n.l2
+  Embedding: [0.4021064707992076]
+
+Word: wrestling
+  Grammar: n.r@s0
+  Embedding: [0.7589973317371157]
+  Grammar: n.r@s1
+  Embedding: [0.5586884866428904]
+  Grammar: n.r@s2
+  Embedding: [1.1238480830577064]
+  Grammar: n0
+  Embedding: [0.5341566205024719]
+  Grammar: n1
+  Embedding: [0.9864146113395691]
+  Grammar: n2
+  Embedding: [0.8292792439460754]
+
+Word: young
+  Grammar: n@n.l0
+  Embedding: [-0.07494868924437245]
+  Grammar: n@n.l1
+  Embedding: [-0.050913608479780575]
+  Grammar: n@n.l2
+  Embedding: [0.5571542284167383]
+

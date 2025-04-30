@@ -1,0 +1,62 @@
+Generating diagrams for unique sentences...
+[Warning] Skipping sentence: Five wooden stands are in front of each child's hut -- Bobcat failed to parse "Five wooden stands are in front of each child's hut".
+[Warning] Skipping sentence: An Egyptian is wearing a woman's headdress -- Bobcat failed to parse "An Egyptian is wearing a woman's headdress".
+[Warning] Skipping sentence: The man's jumper is in the empty pool -- Bobcat failed to parse "The man's jumper is in the empty pool".
+Saved sentence diagram cache.
+All diagrams ready.
+Found 0 problematic sentences.
+Generating circuits for unique sentences...
+Saved sentence circuit cache.
+Circuits generated.
+Building model with 82 unique circuits.
+Model loaded.
+Total Parameters: 1042
+ - XOR Net (Neural) Parameters: 61
+ - Circuit (Quantum) Parameters: 981
+Start training...
+Gradient Norms -- XOR Net: 0.2265, Circuit Params: 0.1821
+Gradient Norms -- XOR Net: 0.1114, Circuit Params: 0.1539
+Epoch 0: Train Loss = 0.1988, Dev MSE = 0.0474
+Gradient Norms -- XOR Net: 0.0574, Circuit Params: 0.0612
+Gradient Norms -- XOR Net: 0.0295, Circuit Params: 0.4008
+Gradient Norms -- XOR Net: 0.0441, Circuit Params: 0.1160
+Gradient Norms -- XOR Net: 0.0280, Circuit Params: 0.2943
+Gradient Norms -- XOR Net: 0.0491, Circuit Params: 0.1183
+Gradient Norms -- XOR Net: 0.0563, Circuit Params: 0.1514
+Gradient Norms -- XOR Net: 0.0417, Circuit Params: 0.0976
+Gradient Norms -- XOR Net: 0.0534, Circuit Params: 0.1399
+Gradient Norms -- XOR Net: 0.0550, Circuit Params: 0.1261
+Gradient Norms -- XOR Net: 0.0158, Circuit Params: 0.1040
+Epoch 5: Train Loss = 0.0779, Dev MSE = 0.0506
+Gradient Norms -- XOR Net: 0.0070, Circuit Params: 0.0582
+Gradient Norms -- XOR Net: 0.0218, Circuit Params: 0.0750
+Gradient Norms -- XOR Net: 0.0350, Circuit Params: 0.0768
+Gradient Norms -- XOR Net: 0.0196, Circuit Params: 0.0447
+Gradient Norms -- XOR Net: 0.0400, Circuit Params: 0.0916
+Gradient Norms -- XOR Net: 0.0132, Circuit Params: 0.0477
+Gradient Norms -- XOR Net: 0.0322, Circuit Params: 0.0574
+Gradient Norms -- XOR Net: 0.0179, Circuit Params: 0.0632
+Gradient Norms -- XOR Net: 0.0157, Circuit Params: 0.0678
+Gradient Norms -- XOR Net: 0.0133, Circuit Params: 0.0500
+Epoch 10: Train Loss = 0.0564, Dev MSE = 0.0522
+Gradient Norms -- XOR Net: 0.0128, Circuit Params: 0.0557
+Gradient Norms -- XOR Net: 0.0237, Circuit Params: 0.0635
+Gradient Norms -- XOR Net: 0.0185, Circuit Params: 0.0911
+Gradient Norms -- XOR Net: 0.0272, Circuit Params: 0.1423
+Gradient Norms -- XOR Net: 0.0198, Circuit Params: 0.0571
+Gradient Norms -- XOR Net: 0.0245, Circuit Params: 0.0856
+Gradient Norms -- XOR Net: 0.0168, Circuit Params: 0.0710
+Gradient Norms -- XOR Net: 0.0341, Circuit Params: 0.0858
+Gradient Norms -- XOR Net: 0.0091, Circuit Params: 0.0566
+Gradient Norms -- XOR Net: 0.0191, Circuit Params: 0.0683
+Epoch 15: Train Loss = 0.0455, Dev MSE = 0.0643
+Gradient Norms -- XOR Net: 0.0118, Circuit Params: 0.0658
+Gradient Norms -- XOR Net: 0.0087, Circuit Params: 0.0607
+Gradient Norms -- XOR Net: 0.0129, Circuit Params: 0.0443
+Gradient Norms -- XOR Net: 0.0177, Circuit Params: 0.0747
+Gradient Norms -- XOR Net: 0.0192, Circuit Params: 0.0618
+Gradient Norms -- XOR Net: 0.0339, Circuit Params: 0.1320
+Early stopping.
+best model on test dataset has MSE 0.015343479996532417
+Training curve saved as train.png.
+Training logs saved to training_log.csv.
