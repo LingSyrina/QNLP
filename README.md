@@ -6,7 +6,7 @@
 2. A task that can be used to compare classical NLP models and QNLP models;
 ```
 ## Our dataset
-[SICK dataset](https://huggingface.co/datasets/RobZamp/sick): Sharedtask with benchmark dataset, we picked 100 pairs of sentences (length <= 10). See `SICK100` folder for our dataset. [Larry Moss](https://arxiv.org/pdf/1910.08772) has been/is working actively on this kind of problem.  
+[SICK dataset](https://huggingface.co/datasets/RobZamp/sick): Sharedtask with benchmark dataset, we picked 100 pairs of sentences (length <= 10). See `SICK100` folder for our dataset. See [relative work](https://arxiv.org/pdf/1910.08772).  
 
 ## Our task
 1. Sentence inference relation: Entail:1, Neutral:0.5, Contradict: 0. For entailment, the directionality matters. 
