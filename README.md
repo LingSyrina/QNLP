@@ -1,6 +1,6 @@
 # QNLP
 
-## General goal
+## General goal (old git)
 ```
 1. A tangible task (around 100 sentences according to the literature);
 2. A task that can be used to compare classical NLP models and QNLP models;
